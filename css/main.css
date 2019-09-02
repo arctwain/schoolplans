@@ -27,7 +27,7 @@ ul.square {
   background: #FFF8E7;
   width: 70%;
   height: 100%;
-  margin: -1em auto;
+  margin: 0 auto;
   padding: 1em;
 }
 
@@ -83,7 +83,7 @@ pre {
 .footer {
   position: absolute;
   right: 0;
-  bottom: 5px;
+  bottom: 0;
   left: 0;
   padding: 1rem;
   background-color: #323B3A;
