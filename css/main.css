@@ -12,7 +12,7 @@ html {
 body {
   position: relative;
   margin: 0;
- /* padding-bottom: 6rem; */
+  padding-bottom: 4rem; 
   min-height: 100%;
   background: #67FCDB;
   font-size: 140%;
