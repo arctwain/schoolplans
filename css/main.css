@@ -26,8 +26,9 @@ ul.square {
   background: #FFF8E7;
   width: 70%;
   height: 100%;
-  margin: 0 auto;
+  margin: -1em auto;
   padding: 1em;
+  
 }
 
 img {
